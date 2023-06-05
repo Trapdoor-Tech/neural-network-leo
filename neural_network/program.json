@@ -1,0 +1,10 @@
+{
+    "program": "neural_network.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpEFmALo1eiP2JqWsfQuvcBPRtuVvPapykrpZjGrwnzyz5",
+        "address": "aleo1acf3std4cda5ysqpyf6ckr3g34265jvucpj0vf04aft57lff8szsf7pgkt"
+    },
+    "license": "MIT"
+}
